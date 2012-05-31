@@ -1,4 +1,4 @@
-stichsh
+stitchsh
 =======
 
 beide Skripte mit chmod a+x dateiname.sh ausführbar machen.
